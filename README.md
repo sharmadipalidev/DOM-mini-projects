@@ -28,3 +28,11 @@ Webpage Screenshot
 Webpage Screenshot
 
 <img width="1919" height="901" alt="Screenshot 2026-03-19 130001" src="https://github.com/user-attachments/assets/f498b8cb-930d-4ede-b577-90a2c38af433" />
+
+
+4. Kanban
+
+(Live link: https://rococo-bienenstitch-fdcc84.netlify.app/)
+
+<img width="1918" height="890" alt="Screenshot 2026-03-20 022137" src="https://github.com/user-attachments/assets/68726f14-3d86-4d3d-8918-715a9d441435" />
+
